@@ -1,0 +1,73 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f5f0;
+    color: #2d572c;
+  }
+  
+  .App-header {
+    background-color: #2d572c;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .App-header nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .App-header nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  .App-header nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .section {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .about-section {
+    background-color: #e3f2e1;
+  }
+  
+  .products-section {
+    background-color: #d0e8d0;
+  }
+  
+  .product-grid {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .product-card {
+    border: 1px solid #2d572c;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    background-color: white;
+  }
+  
+  .other-section {
+    background-color: #d0e8d0;
+  }
+  
+  .contact-section {
+    background-color: #e3f2e1;
+  }
+  
+  .App-footer {
+    background-color: #2d572c;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  
